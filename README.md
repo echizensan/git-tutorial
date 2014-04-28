@@ -1,5 +1,6 @@
 # git-tutorial
 
- - fearture-A
+ - feature-A
  - fix-B
- - fearture-C
+ - feature-C
+ - feature-D
